@@ -1,0 +1,29 @@
+#image{
+width:500px;
+height: 330px;
+}
+#para{
+    color:rgb(7, 110, 76);
+    font-weight: bold;
+}
+
+.beans{
+text-align: center;
+}
+#ingredients{
+    color: rgb(130, 109, 150);
+    font-weight: bold;
+}
+#instruction{
+    color:rgb(121, 97, 145);
+    font-weight: bold;
+
+}
+#entire{
+background-color: aquamarine;
+margin-left:3em;
+margin-right: 3em;
+}
+.content{
+background-color: white;
+}
